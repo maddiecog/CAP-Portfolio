@@ -1,0 +1,50 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ff80e3;
+}
+ul li {
+  float: left;
+}
+ul li a {
+  display: block;
+  color: #800064;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+h1{
+  color: #fab8ff;
+  background-color: #bc0193;
+  text-align: center;
+  font-family: cursive;
+  
+}.card{
+  background-color: #ffccf8;
+  padding: 25px;
+  border-radius: 20px;
+  width: 300px;
+  box-shadow:0px 4px 10px rgba(0,0,0,0.15);
+  margin: auto;
+  
+}
+.image{
+  width: 300px;
+  outline-style: solid;
+  outline-color: #c16cba;
+  outline-width: 4px;
+  
+} p{
+  color: #ff57f1
+}
+a{
+  color: #ff00d0;
+  text-align: center;
+}.image{
+  width: 300px;
+  outline-style: solid;
+  outline-color: #8a005e;
+  outline-width: 4px;
+}
